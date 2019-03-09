@@ -1,0 +1,241 @@
+/* unvisited link */
+a:link {
+    color: initial;
+}
+
+/* visited link */
+a:visited {
+    color: initial;
+}
+
+/* mouse over link */
+a:hover {
+    color: initial;
+}
+
+/* selected link */
+a:active {
+    color: initial;
+}
+
+a{
+	text-decoration: none;
+}
+p{
+	margin: 0px;
+}
+sub{
+	vertical-align: -10%;
+	font-size: 67%;
+}
+sup{
+	vertical-align: 33%;
+	font-size: 67%;
+}
+td{
+	overflow: hidden;
+}
+.p1{
+	font-style: normal;
+	font-weight: 300;
+	font-size: 48.0px;
+	font-family: "Helvetica Neue";
+	color: #000000;
+	letter-spacing: 0.000em;
+	text-transform: none;
+	font-variant: normal;
+	text-decoration: none;
+	text-align: center;
+	text-indent: 0;
+	hyphens: none;
+	-webkit-hyphens: none;
+	text-shadow: none;
+}
+.p2{
+	text-align: left;
+}
+.p3{
+	font-style: normal;
+	font-weight: 400;
+	font-size: 11.0px;
+	font-family: "Helvetica Neue";
+	color: #000000;
+	letter-spacing: 0.000em;
+	text-transform: none;
+	font-variant: normal;
+	text-decoration: none;
+	text-align: left;
+	text-indent: 0;
+	hyphens: none;
+	-webkit-hyphens: none;
+	text-shadow: none;
+}
+.p4{
+	font-size: 16.0px;
+	font-family: "Helvetica";
+	color: #707070;
+}
+.p5{
+	font-size: 19.0px;
+	font-family: "Helvetica";
+	color: #454545;
+}
+.p6{
+	font-size: 19.0px;
+	font-family: "Helvetica";
+	color: #B68C08;
+}
+.p7{
+	font-weight: 700;
+	font-size: 19.0px;
+	font-family: "Helvetica";
+	color: #454545;
+}
+.p8{
+	font-size: 19.0px;
+	font-family: "Menlo";
+	color: #454545;
+}
+.p9{
+	font-size: 13.0px;
+	font-family: "Menlo";
+	color: #454545;
+}
+.p10{
+	font-size: 22.8px;
+	font-family: "Helvetica";
+	color: #454545;
+}
+.p11{
+	font-size: 13.0px;
+	font-family: "Helvetica";
+	color: #454545;
+}
+.p12{
+	font-weight: 700;
+	font-size: 13.0px;
+	font-family: "Menlo";
+	color: #454545;
+}
+.p13{
+	font-size: 19.0px;
+	font-family: "Helvetica";
+	color: #B68C08;
+	text-decoration: underline;
+}
+.p14{
+	font-size: 12.0px;
+	font-family: "Helvetica";
+	color: #454545;
+}
+.p15{
+	font-size: 12.0px;
+	font-family: "Menlo";
+	color: #454545;
+}
+.p16{
+	font-style: italic;
+	font-size: 16.0px;
+	font-family: "Helvetica";
+	color: #454545;
+}
+.p17{
+	font-size: 13.0px;
+	font-family: "Helvetica";
+	color: #757575;
+}
+.c1{
+	font-size: 1px;
+}
+.c2{
+	font-size: 16.0px;
+	background: transparent;
+}
+.c3{
+	font-size: 19.0px;
+	background: transparent;
+}
+.c4{
+	font-style: normal;
+	font-weight: 700;
+	font-family: "Helvetica";
+	color: #B68C08;
+}
+.c5{
+	vertical-align: -0.4px;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 19.0px;
+	font-family: "Menlo";
+	color: #454545;
+	font-variant: normal;
+	text-shadow: none;
+}
+.c6{
+	font-size: 19.0px;
+	background: transparent;
+	text-decoration: underline;
+}
+.c7{
+	color: #B68C08;
+}
+.c8{
+	color: #454545;
+}
+.c9{
+	font-style: normal;
+	font-weight: 700;
+	font-family: "Helvetica";
+}
+.c10{
+	font-size: 13.0px;
+	background: transparent;
+}
+.c11{
+	font-style: normal;
+	font-weight: 700;
+	font-family: "Menlo";
+}
+.c12{
+	font-style: italic;
+	font-weight: 400;
+	font-family: "Helvetica";
+}
+.c13{
+	font-style: normal;
+	font-weight: 400;
+	font-family: "Helvetica";
+}
+.c14{
+	vertical-align: 0.4px;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 22.8px;
+	font-family: "Helvetica";
+	color: #454545;
+	font-variant: normal;
+	text-shadow: none;
+}
+.c15{
+	font-style: normal;
+	font-weight: 400;
+	font-family: "Menlo";
+}
+.c16{
+	text-decoration: underline;
+}
+.c17{
+	font-size: 12.0px;
+	background: transparent;
+}
+.c18{
+	color: #1A73E8;
+}
+.c19{
+	font-size: 13.0px;
+	background: transparent;
+	text-decoration: underline;
+}
+.c20{
+	color: #00A2FF;
+}
